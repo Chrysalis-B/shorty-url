@@ -1,5 +1,6 @@
 const form = document.querySelector('.url-form');
 const result = document.querySelector('.result-section');
+
 form.addEventListener('submit', event => {
   event.preventDefault();
 
