@@ -1,14 +1,14 @@
 {
-  "name": "url-shortener",
+  "name": "shorty-url",
   "version": "1.0.0",
-  "description": "URL Shortener Demo",
+  "description": "URL Shortener",
   "main": "src/server.js",
   "scripts": {
     "start": "npx nodemon src/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freshman-tech/url-shortener.git"
+    "url": "git+https://github.com/Chrysalis-B/shorty-url"
   },
   "keywords": [
     "url shortener",
@@ -17,9 +17,6 @@
   ],
   "author": "Ayo Isaiah",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/freshman-tech/url-shortener/issues"
-  },
   "homepage": "https://github.com/freshman-tech/url-shortener#readme",
   "devDependencies": {
     "nodemon": "^1.18.9"
