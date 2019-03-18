@@ -24,7 +24,7 @@ body {
   margin: 0 auto;
   background-image: url("/assets/background-image.jpg");
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: cover;
   min-height: 100vh;
   max-width: 1000px;
   display: flex;

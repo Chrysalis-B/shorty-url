@@ -1,5 +1,5 @@
 {
-  "name": "shorty-url",
+  "name": "shorty-urly",
   "version": "1.0.0",
   "description": "URL Shortener",
   "main": "src/server.js",
@@ -27,5 +27,8 @@
     "express": "^4.16.4",
     "mongodb": "^3.1.10",
     "nanoid": "^2.0.1"
+  },
+  "engines": {
+    "node": "11.12.0"
   }
 }
